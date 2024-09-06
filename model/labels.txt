@@ -1,0 +1,3 @@
+0 OpenHand
+1 Fist
+2 CloseThumb

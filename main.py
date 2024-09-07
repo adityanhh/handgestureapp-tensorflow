@@ -80,7 +80,7 @@ while True:
             while count < 4:
                 print('Emergency')
                 Msg = "[Automated Message] I'm in Danger!!!"
-                pywhatkit.sendwhatmsg_instantly("+62 895612532800", Msg, 8, True)
+                pywhatkit.sendwhatmsg_instantly("+62 85156408686", Msg, 8, True)
                 count += 1
                 exit()
 

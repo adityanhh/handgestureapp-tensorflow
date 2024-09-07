@@ -47,7 +47,7 @@ while True:
 
         cv2.imshow("image white", imgWhite)
 
-    cv2.imshow("Hand Gesture Project", flip_img)
+    cv2.imshow("Tensorflow - MachineLearning", flip_img)
     key = cv2.waitKey(1)
     if key == ord("s"):
         counter += 1
